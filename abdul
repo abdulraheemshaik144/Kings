@@ -3,8 +3,12 @@ how are you
 all ok
 good
 hmmm
-
-////////dev2
+/
+dev writes without pullin
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); // Prints "Hello, World!" to the console
+   }
 
 public class AddNumbers {
     public static void main(String[] args) {
